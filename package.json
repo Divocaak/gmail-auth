@@ -8,5 +8,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "googleapis": "^166.0.0",
+    "open": "^10.2.0"
+  }
 }
